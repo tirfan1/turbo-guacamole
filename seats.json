@@ -1,0 +1,15 @@
+{
+	"data": [{
+		"Seat": "Standard Seats",
+		"TicketPrice": 10.50,
+		"Quantity": 100
+	}, {
+		"Seat": "Court Side",
+		"TicketPrice": 20.20,
+		"Quantity": 222
+	}, {
+		"Seat": "On Court",
+		"TicketPrice": 30.30,
+		"Quantity": 3
+	}]
+}
